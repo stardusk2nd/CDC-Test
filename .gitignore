@@ -1,0 +1,15 @@
+*.log
+*.jou
+*.str
+*.dcp
+*.cache/
+*.hw/
+*.ip_user_files/
+*.sim/
+*.runs/
+*.gen/
+
+!ip/
+!ip_repo/
+!bd/
+!ip_user_files/ip/
