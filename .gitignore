@@ -1,7 +1,6 @@
 *.log
 *.jou
 *.str
-*.dcp
 *.cache/
 *.hw/
 *.ip_user_files/
