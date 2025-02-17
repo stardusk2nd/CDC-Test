@@ -1,11 +1,10 @@
 `timescale 1ns / 1ps
 
-
-module cdc_test_tb();
+module cdc_type1_tb();
     
     reg clk, rst_n;
     wire cout;
-    cdc_test uut(clk, rst_n, cout);
+    cdc_type1 uut(clk, rst_n, cout);
     
     initial begin
         clk = 0;
